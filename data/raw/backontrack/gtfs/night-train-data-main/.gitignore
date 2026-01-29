@@ -1,0 +1,5 @@
+/example/*
+.env
+out
+credentials.json
+token.json
